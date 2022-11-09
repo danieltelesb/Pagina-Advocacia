@@ -4,7 +4,7 @@
 
 Projeto construido a partir do evento front-week
 
-[Clique aqui para acessar](https://danieltelesb.github.io/pagina-advocacia)
+[Clique aqui para acessar](https://danieltelesb.github.io/Pagina-Advocacia/)
 ## Tecnologias
 - HTML
 - CSS
